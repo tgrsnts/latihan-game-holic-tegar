@@ -7,11 +7,10 @@ const NavigationBar = (props) => {
     <div>
             <Navbar variant="dark">
                 <Container>
-                    <Navbar.Brand href={props.link}>{props.title}</Navbar.Brand>
+                    <Navbar.Brand href="/">Game Holic</Navbar.Brand>
                     <Nav>
                         <Nav.Link href="#trending">TRENDING GAMES</Nav.Link>
-                        <Nav.Link href="#best">BEST GAMES</Nav.Link>
-                        <Nav.Link href="#contact">CONTACT</Nav.Link>
+                        <Nav.Link href="#best">BEST GAMES</Nav.Link>                 
                     </Nav>
                 </Container>
             </Navbar>
