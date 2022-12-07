@@ -2,7 +2,7 @@ import './App.css';
 import Intro from './components/Intro';
 import NavigationBar from './components/NavigationBar';
 import TrendingGame from './components/TrendingGame';
-import BestGame from './components/BestGame'
+import BestGame from './components/BestGame1'
 import Footer from './components/Footer';
 
 function App() {
